@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "世界をかえさせておくれよ",
+  "base_artist": "Sambomaster",
+  "createdAt": "2026-03-02T15:35:53.384404Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "世界をかえさせておくれよ - Kimi No Tameni Tsuyokunaritai Version",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/01_世界をかえさせておくれよ_-_Kimi_No_Tameni_Tsuyokunaritai_Version_Sambomaster.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "世界をかえさせておくれよ (きみのためにつよくなりたいバージョン)",
+      "artist": "サンボマスター",
+      "has_synced": true,
+      "path": "select/02_世界をかえさせておくれよ_(きみのためにつよくなりたいバージョン)_サンボマスター.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "世界をかえさせておくれよ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/03_世界をかえさせておくれよ_サンボマスター.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "世界をかえさせておくれよ",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/04_世界をかえさせておくれよ_Sambomaster.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "世界をかえさせておくれよ （2010ライブバージョン）",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/05_世界をかえさせておくれよ_(2010ライブバージョン)_Sambomaster.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "世界をかえさせておくれよ (きみのためにつよくなりたいバージョン)",
+      "artist": "サンボマスター",
+      "has_synced": true,
+      "path": "select/06_世界をかえさせておくれよ_(きみのためにつよくなりたいバージョン)_サンボマスター.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "世界をかえさせておくれよ",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/07_世界をかえさせておくれよ_Sambomaster.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "世界をかえさせておくれよ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_世界をかえさせておくれよ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "世界をかえさせておくれよ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_02_世界をかえさせておくれよ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "世界をかえさせておくれよ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_03_世界をかえさせておくれよ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "世界をかえさせておくれよ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_04_世界をかえさせておくれよ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "世界をかえさせておくれよ (きみのためにつよくなりたいバージョン)",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_05_世界をかえさせておくれよ_(きみのためにつよくなりたいバージョン)_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "世界をかえさせておくれよ (きみのためにつよくなりたいバージョン)",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_06_世界をかえさせておくれよ_(きみのためにつよくなりたいバージョン)_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "世界をかえさせておくれよ (きみのためにつよくなりたいバージョン)",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_07_世界をかえさせておくれよ_(きみのためにつよくなりたいバージョン)_サンボマスター.txt"
+    }
+  ]
+}
